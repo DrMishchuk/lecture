@@ -1,0 +1,39 @@
+.section-hot li, .section-realy li {
+  padding: 10px;
+}
+.section-hot li:hover {
+  background-color: rgba(68,171,81,1);
+}
+.section-realy li:hover {
+  background-color: rgba(187,190,65,1);
+}
+a{
+  text-decoration: none;
+}
+
+.secton-news li:hover a {
+  color: white;
+}
+
+h2 {
+  color: rgba(247,247,247,1);
+  padding: 10px;
+}
+.hotHider{
+  background-color: darkolivegreen;
+}
+.realt{
+  background-color: cadetblue;
+}
+.slader{
+  width: 50%;
+  margin: 0 auto;
+  text-align: center;
+}
+.slader img {
+  width: 200px;
+  height: 350px;
+}
+.show-prew1 {
+  background: rgba(118,150,33,1);
+}
